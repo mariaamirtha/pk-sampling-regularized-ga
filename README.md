@@ -1,5 +1,6 @@
 # Direct Empirical Optimization of Clinical Pharmacokinetic Sampling Schedules Using Regularized Genetic Algorithms
 
+[![DOI](https://zenodo.org/badge/1464865884.svg)](https://doi.org/10.5281/zenodo.24384886)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![R](https://img.shields.io/badge/R-%3E%3D%204.3.0-276DC3.svg)](https://www.r-project.org/)
 
@@ -108,12 +109,16 @@ In `02_run_pure_ga.R`, `03_run_pchip_ga_49.R`, and `05_run_pchip_ga_15.R`, `enfo
 If you use this codebase, simulation data, or methodology in your research, please cite:
 
 ```bibtex
-@mastersthesis{maria2026pksampling,
+@misc{maria2026pkga,
   author       = {Maria, Amirtha},
   title        = {Direct Empirical Optimization of Clinical Pharmacokinetic Sampling Schedules Using Regularized Genetic Algorithms},
   year         = {2026},
-  institution  = {University of California, San Francisco},
-  url    = {[https://github.com/mariaamirtha/pk-sampling-regularized-ga](https://github.com/mariaamirtha/pk-sampling-regularized-ga)}
+  month        = {sep},
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.XXXXXXX},
+  url          = {https://doi.org/10.5281/zenodo.XXXXXXX}
+}
 ```
 ---
 ## Contact
