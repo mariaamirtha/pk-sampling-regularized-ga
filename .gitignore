@@ -53,3 +53,13 @@ rsconnect/
 src/*.o
 src/*.so
 src/*.dll
+
+# Project-specific large binaries and cache
+results/cache/
+results/tables/09_subject_errors_long.rds
+
+# OS and Microsoft Office temporary files
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*.docx
