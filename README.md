@@ -116,5 +116,10 @@ If you use this codebase, simulation data, or methodology in your research, plea
   url    = {[https://github.com/mariaamirtha/pk-sampling-regularized-ga](https://github.com/mariaamirtha/pk-sampling-regularized-ga)}
 ```
 ---
+## Contact
+
+For questions about the code or reproducibility, please open a [GitHub Issue](https://github.com/mariaamirtha/pk-sampling-regularized-ga/issues). For research or professional inquiries, feel free to connect on [LinkedIn](www.linkedin.com/in/amirtha-maria-42182a1a6).
+
+---
 ## License
 This project is released under the MIT License.
