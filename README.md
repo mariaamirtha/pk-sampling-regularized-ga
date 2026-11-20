@@ -118,7 +118,7 @@ If you use this codebase, simulation data, or methodology in your research, plea
 ---
 ## Contact
 
-For questions about the code or reproducibility, please open a [GitHub Issue](https://github.com/mariaamirtha/pk-sampling-regularized-ga/issues). For research or professional inquiries, feel free to connect on [LinkedIn](www.linkedin.com/in/amirtha-maria-42182a1a6).
+For questions about the code or reproducibility, please open a [GitHub Issue](https://github.com/mariaamirtha/pk-sampling-regularized-ga/issues). For research or professional inquiries, feel free to connect on [LinkedIn](https://www.linkedin.com/in/amirtha-maria-42182a1a6).
 
 ---
 ## License
