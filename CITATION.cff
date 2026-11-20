@@ -1,10 +1,12 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: "If you use this software, dataset, or manuscript, please cite it as below."
+title: "Direct Empirical Optimization of Clinical Pharmacokinetic Sampling Schedules Using Regularized Genetic Algorithms"
 authors:
   - family-names: "Maria"
     given-names: "Amirtha"
     affiliation: "University of California, San Francisco"
-title: "Direct Empirical Optimization of Clinical Pharmacokinetic Sampling Schedules Using Regularized Genetic Algorithms"
-version: 1.0.0
-date-released: 2026-11-18
+version: "1.0.0"
+date-released: 2026-11-19
+doi: "10.5281/zenodo.24384887"
 url: "https://github.com/mariaamirtha/pk-sampling-regularized-ga"
+license: MIT
